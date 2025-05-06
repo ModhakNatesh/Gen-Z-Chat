@@ -10,16 +10,14 @@ Gen-Z-Chat is a stylish, AI-driven chat application tailored for the modern gene
 
 - 🧠 **AI-Powered Replies** – Talk to an intelligent assistant in real-time
 - 🎨 **Modern GUI** – Built with a Gen-Z aesthetic in mind
-- 🔊 **Sound Effects** – Feel every message with subtle audio cues
-- 💡 **Loading Animations** – Because even waiting should look good
 - 🖋️ **Custom Fonts** – Stylish typography for a clean, bold look
 
 ## 💻 Tech Stack
 
 - Python 3.x 🐍
 - Tkinter for GUI 🖼️
-- Hugging Face Inference API 🤗 (or other AI backend)
-- PIL & `pygame` for media & sound handling
+- Gemini API 🤗
+- Pollinations AI for Image Generation
 
 ## 📁 Project Structure
 
